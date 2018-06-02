@@ -5,4 +5,4 @@ This is a Xamarin.Forms sample program to simulate the motion of Inverted Pendul
 * English: 
 * Japanese: 
 
-[Keywords] Xamarin.Forms, Inverted Pendulu，PID Control，Runge=Kutta method，Ziegler-Nichols' Ultimate Gain method，BoxView，
+[Keywords] Xamarin.Forms, Inverted Pendulu, PID Control, Runge=Kutta method, Ziegler-Nichols' Ultimate Gain method, BoxView, Slider, Device.StartTimer
